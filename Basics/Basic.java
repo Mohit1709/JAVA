@@ -1,3 +1,5 @@
+package Basics;
+
 // Always declare the main class as public
 public class Basic {
 

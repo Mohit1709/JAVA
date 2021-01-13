@@ -1,3 +1,4 @@
+package Basics;
 
 // importing Scanner object for taking user input
 import java.util.Scanner;
