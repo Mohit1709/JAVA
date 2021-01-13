@@ -7,7 +7,7 @@ public class Basic {
     public static void main(String[] args) {
 
         // For printing statement
-        // using print / println method from out stream of system class
+        // using print/println method from out stream of system class
         // which takes argument of string type
         System.out.println("This Statement will be printed on console!!");
     }
