@@ -1,6 +1,3 @@
-// importing is manditory
-package JAVA;
-
 // Always declare the main class as public
 public class Basic {
 
